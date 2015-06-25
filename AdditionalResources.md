@@ -1,12 +1,14 @@
 #Additional SEO and web development resources
 
 ##Web Dev
+
 ----- | -------------------------------
 HTML | http://hackr.io/tutorials/html
 CSS | http://hackr.io/tutorials/css 
 All | http://www.codecademy.com/learn2 
 
 ##SEO & Keyword Research
+
 ---- | -------------------------------
 Moz | https://moz.com/learn/seo
 Moz | https://moz.com/blog/how-to-rank
